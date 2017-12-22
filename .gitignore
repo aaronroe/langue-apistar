@@ -1,0 +1,10 @@
+/.idea
+*.pyc
+.tags*
+/*venv
+secrets.properties
+.tags*
+/src
+/airflow_home
+/garbage
+.DS_Store
